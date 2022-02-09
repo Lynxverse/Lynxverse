@@ -1,0 +1,34 @@
+#
+## Alias OBJ Material File
+# Exported from SketchUp, (c) 2000-2012 Trimble Navigation Limited
+
+newmtl Material__2
+Ka 0.000000 0.000000 0.000000
+Kd 0.305882 0.305882 0.380392
+Ks 0.330000 0.330000 0.330000
+map_Kd bed_berantakan/Material__2.jpg
+
+newmtl M_20___VRay_Material1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.572549 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd bed_berantakan/M_20___VRay_Material1.jpg
+
+newmtl Material__1
+Ka 0.000000 0.000000 0.000000
+Kd 0.760784 0.796078 0.670588
+Ks 0.330000 0.330000 0.330000
+map_Kd bed_berantakan/Material__1.jpg
+
+newmtl M_1
+Ka 0.000000 0.000000 0.000000
+Kd 0.564706 0.572549 0.564706
+Ks 0.330000 0.330000 0.330000
+map_Kd bed_berantakan/M_1.jpg
+
+newmtl M_2
+Ka 0.000000 0.000000 0.000000
+Kd 0.470588 0.525490 0.466667
+Ks 0.330000 0.330000 0.330000
+map_Kd bed_berantakan/M_2.jpg
+
